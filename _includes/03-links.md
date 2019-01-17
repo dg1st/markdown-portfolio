@@ -1,2 +1,3 @@
 [Github]https://github.com
-[Bing]https://cn.bing.com
+[Bing]https://cn.bibf.com
+[Google]https://www.google.com
