@@ -1,2 +1,2 @@
 [Github]https://github.com
-[Bing]https://bing.com
+[Bing]https://cn.bing.com
